@@ -1,0 +1,89 @@
+body{
+    background: darkblue;
+}
+#main{
+    padding: 40px;
+}
+#Uno{
+    background: cornflowerblue;
+    height: 200px;
+    width: 566px; 
+    float: left;  
+}
+#Dos{
+    background: cornflowerblue;
+    width: 566px;
+    height: 440px;
+    float: left;
+    margin-left: 40px;
+}
+#Tres{
+    background: cornflowerblue;
+    width: 263px;
+    height: 200px;
+    float: left;
+    margin-left: 40px;
+}
+
+#Cuatro{
+    background: cornflowerblue;
+    height: 200px;
+    width: 263px; 
+    float: left;
+    margin-left: 40px;     
+}  
+#Seis{
+    background: cornflowerblue;
+    height: 200px;
+    width: 263px; 
+    margin-top: 40px;
+    margin-left: 40px;
+    float:left;
+}
+#Siete{
+    background: cornflowerblue;
+    height: 440px;
+    width: 263px; 
+    float: right; 
+    margin-top: 40px;
+    margin-right: 30px;
+}
+#Ocho{
+    background: cornflowerblue;
+    height: 200px;
+    width: 263px; 
+    margin-top: 40px;
+    float:left
+}
+#Nueve{
+    background: cornflowerblue;
+    height: 200px;
+    width: 566px; 
+    margin-top: 40px;
+    margin-left: 40px;
+    float:left
+}
+#Diez{
+    background: cornflowerblue;
+    height: 200px;
+    width: 566px; 
+    float: none;
+    margin-top: 240px;
+}
+#Once{
+    background: cornflowerblue;
+    height: 200px;
+    width: 263px; 
+    float: left;
+    margin-top:40px;
+    margin-left: 40px;
+}
+#Pie{
+    background: cornflowerblue;
+    height: 200px;
+    width: 263px; 
+    float: left;
+    margin-top:40px;
+    margin-left: 40px;
+}
+
