@@ -1,47 +1,62 @@
 body{
-    background: darkblue;
+    background: #024a52;
 }
 #main{
     padding: 40px;
 }
 #Uno{
-    background: cornflowerblue;
+    background: #c8dbdf;
     height: 200px;
     width: 566px; 
-    float: left;  
+    float: left; 
 }
 #Dos{
-    background: cornflowerblue;
+    background: #c8dbdf;
     width: 566px;
     height: 440px;
     float: left;
     margin-left: 40px;
 }
+#Dos img{
+    width: 566px;
+    height: 440px;
+}
 #Tres{
-    background: cornflowerblue;
+    background: #c8dbdf;
     width: 263px;
     height: 200px;
     float: left;
     margin-left: 40px;
 }
-
+#Tres img{
+    height: 200px;
+    width: 263px;
+}
 #Cuatro{
-    background: cornflowerblue;
+    background: #c8dbdf;
     height: 200px;
     width: 263px; 
     float: left;
     margin-left: 40px;     
 }  
+#Cuatro img{
+    height: 200px;
+    width: 263px;
+}
 #Seis{
-    background: cornflowerblue;
+    background: #c8dbdf;
     height: 200px;
     width: 263px; 
     margin-top: 40px;
     margin-left: 40px;
     float:left;
 }
+#Seis img{
+    height: 200px;
+    width: 263px;
+}
 #Siete{
-    background: cornflowerblue;
+    background: #c8dbdf;
     height: 440px;
     width: 263px; 
     float: right; 
@@ -49,14 +64,18 @@ body{
     margin-right: 30px;
 }
 #Ocho{
-    background: cornflowerblue;
+    background: #c8dbdf;
     height: 200px;
     width: 263px; 
     margin-top: 40px;
     float:left
 }
+#Ocho img{
+    height: 200px;
+    width: 263px;
+}
 #Nueve{
-    background: cornflowerblue;
+    background: #c8dbdf;
     height: 200px;
     width: 566px; 
     margin-top: 40px;
@@ -64,14 +83,14 @@ body{
     float:left
 }
 #Diez{
-    background: cornflowerblue;
+    background: #c8dbdf;
     height: 200px;
     width: 566px; 
     float: none;
     margin-top: 240px;
 }
 #Once{
-    background: cornflowerblue;
+    background: #c8dbdf;
     height: 200px;
     width: 263px; 
     float: left;
@@ -79,11 +98,15 @@ body{
     margin-left: 40px;
 }
 #Pie{
-    background: cornflowerblue;
+    background: #c8dbdf;
     height: 200px;
     width: 263px; 
     float: left;
     margin-top:40px;
     margin-left: 40px;
+}
+#Pie img{
+    height: 200px;
+    width: 263px;
 }
 
